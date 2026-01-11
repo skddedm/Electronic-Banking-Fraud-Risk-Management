@@ -1,2 +1,1 @@
-# Project 1: Risk Management
-Fraud Detection and Analysis with Using Electronic Banking Services by Customers
+Electronic banking fraud risk identification, analysis and mitigation. 
